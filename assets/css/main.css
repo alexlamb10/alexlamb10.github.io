@@ -637,12 +637,6 @@ input, select, textarea {
 
 /* Image */
 
-	.badges{
-		display: flex;
-		flex-wrap: wrap;
-		justify-content: space-around;
-		margin-bottom: 1vh;
-	}
 
 	.image {
 		border-radius: 4px;
